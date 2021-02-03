@@ -1,7 +1,7 @@
 ### Hi there 👋🏼
 My name is Juan and I'm from Mexico 
 
-I am a Data Science and AI enthusiast with experience in data visualization, data mining and ML / Cognitive Computing Development. I have a bachelors degree in Bionics, focused on signal processing and neural networks.
+I am a Data Science and AI enthusiast with experience in data visualization, data mining and ML / Cognitive Computing development. I have a bachelors degree in Bionics, I focused on signal processing and neural networks.
 
 ### Languages and Tools 🛠️:
 
