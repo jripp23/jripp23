@@ -8,14 +8,20 @@ I enjoy
 ### Languages and Tools:
 
 -Python
+
 -JavaScript
+
 -C++
+
 -Git
+
 -Bash shell
 
 
 ### Connect with me 🌎:
 
 -Twitter
+
 -Linkedln
+
 -Outlook
